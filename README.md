@@ -1,6 +1,6 @@
 ### Oi! Eu sou a Suélen Senapeschi 😊
 
-- 🔭 Atualmente trabalho com planejamento de infraestrutura, porém estou em transição de carreira e busca de uma oportunidade em TI.
+- 🔭 Atualmente trabalho com planejamento de infraestrutura/manutenção, porém estou em transição de carreira e busca de uma oportunidade em TI.
 - 🌱 Me formo em Engenharia Mecânica esse ano e pretendo iniciar uma formação em TI logo em sequência. 
 - 📖 Estudando através das plataforma da DIO e Udemy (.net, c# e Python)
 
